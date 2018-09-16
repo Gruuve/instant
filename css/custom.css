@@ -1,0 +1,18 @@
+.temp {
+    /*font-family: 'Francois One', sans-serif;*/
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+}
+
+.subtag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 75px;
+}
+
+body {
+  background: url("https://raw.githubusercontent.com/Gruuve/res/master/trees.jpg");
+  background-position: absolute; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
