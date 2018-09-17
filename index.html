@@ -83,7 +83,8 @@
      else {
        a = a.trim();
        a = findAndReplace(a," ","+");
-       
+       var url = 'main.php/q=' + a;
+       window.location = url;
        
      }
 
