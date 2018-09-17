@@ -1,7 +1,9 @@
 <?php 
 
-
-
+$qw = $_GET["q"];
+$url = "https://api.duckduckgo.com/?q="+ qw +"&format=json&pretty=1&no_redirect=1&no_html=1";
+$json = file_get_contents($url);
+$json_data = json_decode($json);
 
 
 ?>
@@ -50,7 +52,7 @@
             <div class="card">
                 <img src="https://duckduckgo.com/i/0f9d3f68.jpg" height="200" width="165">
                 <div class="card-body">
-                  <h2 class="card-title">Heading</h2>
+                  <h2 class="card-title"><?php echo $qw; ?></h2>
                   <p class="card-text" style="font-size: 18px">Abstract Text kslighlsihglidhglihriirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr Abstract Text</b></p>
                   <p class="card-text"><small class="text-muted"><a href ="Abstract URl">Abstract Source</a></small></p>
                 </div>
