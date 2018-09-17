@@ -42,3 +42,7 @@
 [2018-09-17 22:29:29.931] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/out/phpMain
 [2018-09-17 22:29:30.158] [exthost1] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"activationEvent":"onLanguage:php"}
 [2018-09-17 22:29:30.158] [exthost1] [info] ExtensionService#loadCommonJSModule /home/subhajit/.vscode/extensions/felixfbecker.php-intellisense-2.3.5/out/extension
+[2018-09-18 01:47:28.633] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-09-18 01:47:28.633] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-09-18 01:47:28.742] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-09-18 01:47:28.742] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main
