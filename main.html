@@ -1,29 +1,3 @@
-<?php 
-
-$qw = $_GET["q"];
-$url = "https://api.duckduckgo.com/?q=". $qw ."&format=json&pretty=1&no_redirect=1&no_html=1";
-$json = file_get_contents($url);
-$json_data = json_decode($json);
-
-$heading = $json_data->Heading;
-$text = $json_data->AbstractText;
-$img = $json_data->Image;
-$imgH = $json_data->ImageHeight;
-$imgW = $json_data->ImageWidth;
-
-$textS = $json_data->AbstractSource;
-$textU = $json_data->AbstractURL;
-
-$answer = $json_data->Answer;
-
-
-
-?>
-
-
-
-
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -62,39 +36,12 @@ $answer = $json_data->Answer;
         <div class="container">
           
             <div class="card">
-                <img src="<?php echo $img; ?>" height="<?php echo $imgH; ?>" width="<?php echo $imgW; ?>">
                 <div class="card-body">
-                  <h2 class="card-title"><?php echo $heading; ?></h2>
-                  <p class="card-text" style="font-size: 18px"><?php echo $text; ?></p>
-                  <p class="card-text"><small class="text-muted"><a href ="<?php echo $textU ?>"><?php echo $textS; ?></a></small></p>
+                  <center><h2 class="card-title">Sorry, No data found.</h2>
+                  <p class="card-text" style="font-size: 15px">Tips : Please check for spelling mistakes and grammatical errors while using Gruuve Instant Search. <br> Also try to use exact keyword as the search query.</p></center>
                 </div>
               </div>
-
               
-
-              <!--Answer-->
-
-              <?php 
-              
-              if ($answer != ""){
-              echo "<br><div class=\"card bg-primary\">
-                <div class=\"card-body\">
-                    <h3 class=\"card-title\" style=\"color : white;\">$answer</h3>
-                </div>
-              </div>";} ?>
-
-                <!--Details--> <br>
-
-              <div class="card">
-                  <div class="card-body">
-                      <h3 class="card-title">Results</h3>
-                      <div class="card-text" style="font-size: 18px">
-                        <ul>
-                          <li>Data 1 : <b>ugefiuwgufg</b></li>
-                        </ul>
-                      </div>
-                  </div>
-                </div>
 
 
         </div> 

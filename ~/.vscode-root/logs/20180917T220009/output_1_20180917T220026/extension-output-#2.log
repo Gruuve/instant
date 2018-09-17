@@ -1032,3 +1032,381 @@ getHoverAt: 0ms
 getHoverAt: 1ms
 getHoverAt: 0ms
 getHoverAt: 0ms
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+getTemplateReferences: 0ms
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 86ms
+getDiagnostics: 0ms
+remove project: /opt/lampp/htdocs/instant/index.html
+getDiagnostics: 30ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 65ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 26ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 13ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 19ms
+getHoverAt: 1ms
+getDiagnostics: 36ms
+getHoverAt: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 11ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 66ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 19ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 4ms
+getDiagnostics: 8ms
+getCompletions: 10ms
+getCompletions: 16ms
+getDiagnostics: 9ms
+getCompletions: 7ms
+getCompletions: 9ms
+getDiagnostics: 2ms
+getDiagnostics: 4ms
+getCompletions: 7ms
+getDiagnostics: 7ms
+getCompletions: 3ms
+getDiagnostics: 18ms
+getDiagnostics: 42ms
+getCompletions: 22ms
+getCompletions: 38ms
+getCompletions: 4ms
+getHoverAt: 1ms
+getDiagnostics: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 62ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 22ms
+getHoverAt: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getCompletions: 15ms
+getCompletions: 10ms
+getCompletions: 7ms
+getDiagnostics: 2ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 47ms
+getDiagnostics: 18ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 10ms
+getDiagnostics: 17ms
+remove project: /opt/lampp/htdocs/instant/main.html
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 76ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getDiagnostics: 6ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 31ms
+remove project: /opt/lampp/htdocs/instant/main.html
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 56ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 31ms
+getDiagnostics: 43ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 62ms
+getDiagnostics: 23ms
+getHoverAt: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getCompletions: 6ms
+getCompletions: 4ms
+getCompletions: 6ms
+getDiagnostics: 2ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 27ms
+getDiagnostics: 27ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 3ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 17ms
+getCompletions: 6ms
+getDiagnostics: 80ms
+getDiagnostics: 6ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 63ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 44ms
+getHoverAt: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 3ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 47ms
+getCompletions: 6ms
+getCompletions: 6ms
+getDiagnostics: 54ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 12ms
+getDiagnostics: 5ms
+getDiagnostics: 5ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 71ms
+getHoverAt: 0ms
+getDiagnostics: 22ms
+getCompletions: 3ms
+getCompletions: 4ms
+getDiagnostics: 5ms
+getDiagnostics: 5ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 42ms
+getDiagnostics: 25ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 5ms
+getCompletions: 5ms
+getDiagnostics: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 30ms
+getCompletions: 5ms
+getCompletions: 5ms
+getCompletions: 8ms
+getCompletions: 7ms
+getCompletions: 9ms
+getDiagnostics: 22ms
+getCompletions: 5ms
+getDiagnostics: 7ms
+getCompletions: 3ms
+getDiagnostics: 7ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 17ms
+getCompletions: 7ms
+getCompletions: 5ms
+getCompletions: 3ms
+getCompletions: 4ms
+getCompletions: 31ms
+getCompletions: 26ms
+getCompletions: 9ms
+getCompletions: 17ms
+getCompletions: 7ms
+getCompletions: 8ms
+getCompletions: 7ms
+getCompletions: 7ms
+getCompletions: 5ms
+getCompletions: 6ms
+getCompletions: 7ms
+getCompletions: 26ms
+getCompletions: 50ms
+getDiagnostics: 32ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 4ms
+getCompletions: 9ms
+getCompletions: 3ms
+getDiagnostics: 4ms
+getCompletions: 3ms
+getCompletions: 4ms
+getDiagnostics: 4ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 39ms
+getCompletions: 4ms
+getDiagnostics: 17ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 5ms
+getCompletions: 9ms
+getCompletions: 12ms
+getDiagnostics: 4ms
+getCompletions: 8ms
+getDiagnostics: 3ms
+getCompletions: 15ms
+getCompletions: 5ms
+getDiagnostics: 3ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 32ms
+getDiagnostics: 36ms
+getDiagnostics: 4ms
+getCompletions: 19ms
+getCompletions: 3ms
+getCompletions: 14ms
+getCompletions: 12ms
+getDiagnostics: 2ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 27ms
+getCompletions: 4ms
+getCompletions: 9ms
+getCompletions: 6ms
+getCompletions: 6ms
+getDiagnostics: 47ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 4ms
+getDiagnostics: 13ms
+getCompletions: 7ms
+getCompletions: 13ms
+getCompletions: 16ms
+getDiagnostics: 21ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 36ms
+getCompletions: 7ms
+getCompletions: 19ms
+getCompletions: 6ms
+getCompletions: 12ms
+getDiagnostics: 31ms
+getCompletions: 4ms
+getDiagnostics: 2ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 34ms
+getDiagnostics: 26ms
+getCompletions: 9ms
+getCompletions: 5ms
+getCompletions: 5ms
+getCompletions: 4ms
+getCompletions: 15ms
+getCompletions: 7ms
+getCompletions: 6ms
+getCompletions: 6ms
+getCompletions: 38ms
+getCompletions: 7ms
+getDiagnostics: 20ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 23ms
+getCompletions: 3ms
+getDiagnostics: 45ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+remove project: /opt/lampp/htdocs/instant/main.html
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 58ms
+getDiagnostics: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 7ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 13ms
+getCompletions: 6ms
+getDiagnostics: 60ms
+remove project: /opt/lampp/htdocs/instant/main.html
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 73ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 2ms
+remove project: /opt/lampp/htdocs/instant/main.html
