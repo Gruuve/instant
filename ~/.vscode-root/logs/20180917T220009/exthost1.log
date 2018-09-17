@@ -1,0 +1,32 @@
+[2018-09-17 22:00:12.721] [exthost1] [info] extension host started
+[2018-09-17 22:00:12.752] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:12.753] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-09-17 22:00:12.764] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:12.765] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-09-17 22:00:12.815] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:12.815] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-09-17 22:00:12.988] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:12.988] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-09-17 22:00:12.999] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:12.999] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-09-17 22:00:13.005] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:13.005] [exthost1] [info] ExtensionService#loadCommonJSModule /home/subhajit/.vscode/extensions/dbaeumer.vscode-eslint-1.6.0/client/out/extension
+[2018-09-17 22:00:13.079] [exthost1] [info] eager extensions activated
+[2018-09-17 22:00:27.214] [exthost1] [info] extension host started
+[2018-09-17 22:00:27.243] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.243] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-09-17 22:00:27.250] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.250] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-09-17 22:00:27.292] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.292] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-09-17 22:00:27.466] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.466] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-09-17 22:00:27.477] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.477] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-09-17 22:00:27.483] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-17 22:00:27.483] [exthost1] [info] ExtensionService#loadCommonJSModule /home/subhajit/.vscode/extensions/dbaeumer.vscode-eslint-1.6.0/client/out/extension
+[2018-09-17 22:00:28.004] [exthost1] [info] eager extensions activated
+[2018-09-17 22:00:39.745] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-09-17 22:00:39.745] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2018-09-17 22:00:39.919] [exthost1] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-09-17 22:00:39.919] [exthost1] [info] ExtensionService#loadCommonJSModule /home/subhajit/.vscode/extensions/angular.ng-template-0.1.10/out/extension
