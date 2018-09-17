@@ -1635,3 +1635,9 @@ getHoverAt: 1ms
 getHoverAt: 0ms
 getHoverAt: 0ms
 remove project: /opt/lampp/htdocs/instant/main.html
+Search path: /opt/lampp/htdocs/instant
+No config files found.
+Angular Language Service: 6.1.4
+TypeScript: 2.7.2
+getTemplateReferences: 50ms
+getDiagnostics: 1ms
