@@ -42,13 +42,36 @@
         <div class="container">
           
             <div class="card">
-                <img class="card-img-left" src="https://duckduckgo.com/i/0f9d3f68.jpg" height="200" width="165">
+                <img src="https://duckduckgo.com/i/0f9d3f68.jpg" height="200" width="165">
                 <div class="card-body">
                   <h2 class="card-title">Heading</h2>
                   <p class="card-text" style="font-size: 18px">Abstract Text kslighlsihglidhglihriirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr Abstract Text</b></p>
                   <p class="card-text"><small class="text-muted"><a href ="Abstract URl">Abstract Source</a></small></p>
                 </div>
               </div>
+
+              <br>
+
+              <!--Answer-->
+
+              <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">This is a Answer to the question asked.</h3>
+                </div>
+              </div>
+
+                <!--Details--> <br>
+
+              <div class="card">
+                  <div class="card-body">
+                      <h3 class="card-title">Results</h3>
+                      <div class="card-text" style="font-size: 18px">
+                        <ul>
+                          <li>Data 1 : ugefiuwgufg</li>
+                        </ul>
+                      </div>
+                  </div>
+                </div>
 
 
         </div> 
