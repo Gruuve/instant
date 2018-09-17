@@ -36,7 +36,7 @@
             <div class="input-group input-group-lg" style="height : 70px;">
                 <input type="text" class="form-control" placeholder="Enter Search Query" id="input" style="font-size : 25px;">
                 <div class="input-group-append">
-                  <button class="btn btn-warning" type="button" id="search">Search</button>
+                  <button class="btn btn-warning" type="button" id="search" onclick="search()">Search</button>
                 </div>
               </div>
               </div>
@@ -79,6 +79,9 @@
 
      if(a==''){
        alert('Please enter a value.');
+     }
+     else {
+       console.log(a);
      }
 
    }
