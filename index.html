@@ -34,7 +34,7 @@
           <div class="col-8">
 
             <div class="input-group input-group-lg" style="height : 70px;">
-                <input type="text" class="form-control" placeholder="Enter Search Query" style="font-size : 30px;">
+                <input type="text" class="form-control" placeholder="Enter Search Query" id="input" style="font-size : 25px;">
                 <div class="input-group-append">
                   <button class="btn btn-warning" type="button" id="search">Search</button>
                 </div>
@@ -71,3 +71,15 @@
 
 </body>
 </html>
+
+
+<script>
+   function search(){
+     var a = document.getElementById('input').value;
+
+     if(a==''){
+       alert('Please enter a value.');
+     }
+
+   }
+</script>
