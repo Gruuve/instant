@@ -6,6 +6,11 @@ $json = file_get_contents($url);
 $json_data = json_decode($json);
 
 $heading = $json_data->Heading;
+
+if ($heading == ""){
+  echo "<script>window.location = \"main.html\";</script>";
+}
+
 $text = $json_data->AbstractText;
 $img = $json_data->Image;
 $imgH = $json_data->ImageHeight;
@@ -15,6 +20,8 @@ $textS = $json_data->AbstractSource;
 $textU = $json_data->AbstractURL;
 
 $answer = $json_data->Answer;
+
+
 
 
 
@@ -85,22 +92,80 @@ $answer = $json_data->Answer;
 
                 <!--Details--> <br>
 
-              <div class="card">
-                  <div class="card-body">
-                      <h3 class="card-title">Results</h3>
-                      <div class="card-text" style="font-size: 18px">
-                        <ul>
-                          <li>Data 1 : <b>ugefiuwgufg</b></li>
-                        </ul>
+                <?php
+
+                if(!empty($json_data->Infobox)){
+
+                  $info = $json_data->Infobox->content;
+
+              echo "<div class=\"card\">
+                  <div class=\"card-body\">
+                      <h3 class=\"card-title\">Results</h3>
+                      <div class=\"card-text\" style=\"font-size: 18px\">
+                        <ul>";
+
+                          
+                          foreach($info as $in)
+                          if ($in->data_type == "string"){
+                          echo "<li>$in->label : <b>$in->value</b></li>";
+                          }
+                          
+                        
+                       echo" </ul>
                       </div>
                   </div>
-                </div>
+                </div>";
+
+                        }
+                          ?>
 
 
-        </div> 
+                      
+                        <!--Links-->
 
+                        <?php
+
+                        if(!empty($json_data->Results)){
+
+                            $res = $json_data->Results;
+
+                       echo "<br><div class=\"card\">
+                          <div class=\"card-body\">
+                          <h3 class=\"card-title\">Links</h3>
+                          <div class=\"card-text\">";
+
+
+                            foreach($res as $re){
+                              $iU = $re->Icon->URL;
+                              $iH = $re->Icon->Height;
+                              $iW = $re->Icon->Width;
+                              $RR = $re->Result;
+
+                            echo "<font style=\"font-size:20px;\"> $RR </font><div>";
+                            
+                              echo "<img src =$iU height=$iH width=$iW > $re->FirstURL
+                              
+                          </div>";
+                            
+                        }
+
+
+
+
+                      echo " </div>
+
+
+                      
+                               </div> </div> ";  }  ?>
+
+                               
+
+        
+        </div>
+        
+                        <br><br>
 </body>
-
+</html>
 
 
 
