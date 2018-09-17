@@ -30,3 +30,5 @@
 [2018-09-17 22:00:39.745] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
 [2018-09-17 22:00:39.919] [exthost1] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:html"}
 [2018-09-17 22:00:39.919] [exthost1] [info] ExtensionService#loadCommonJSModule /home/subhajit/.vscode/extensions/angular.ng-template-0.1.10/out/extension
+[2018-09-17 22:09:47.293] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-09-17 22:09:47.293] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
