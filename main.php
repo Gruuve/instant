@@ -1,4 +1,10 @@
+<?php 
 
+
+
+
+
+?>
 
 
 
@@ -54,9 +60,9 @@
 
               <!--Answer-->
 
-              <div class="card">
+              <div class="card bg-primary">
                 <div class="card-body">
-                    <h3 class="card-title">This is a Answer to the question asked.</h3>
+                    <h3 class="card-title" style="color : white;">This is a Answer to the question asked.</h3>
                 </div>
               </div>
 
@@ -67,7 +73,7 @@
                       <h3 class="card-title">Results</h3>
                       <div class="card-text" style="font-size: 18px">
                         <ul>
-                          <li>Data 1 : ugefiuwgufg</li>
+                          <li>Data 1 : <b>ugefiuwgufg</b></li>
                         </ul>
                       </div>
                   </div>

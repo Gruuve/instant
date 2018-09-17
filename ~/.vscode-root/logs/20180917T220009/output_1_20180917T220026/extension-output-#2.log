@@ -1022,3 +1022,13 @@ TypeScript: 2.7.2
 getTemplateReferences: 77ms
 getDiagnostics: 5ms
 remove project: /opt/lampp/htdocs/instant/main.html
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
